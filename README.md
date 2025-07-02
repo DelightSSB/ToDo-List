@@ -1,4 +1,4 @@
-# ✅ To-Do List (Vanilla JS Edition)
+# ✅ To-Do List
 
 A simple and playful to-do list made with just HTML, CSS, and JavaScript. Add tasks, check them off, or remove them with a click of an "X".
 
